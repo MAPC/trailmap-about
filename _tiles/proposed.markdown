@@ -5,5 +5,6 @@ background-image:
 config:
   proposed: true
   zoom: 10
+  landline: true
 ---
 

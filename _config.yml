@@ -25,4 +25,4 @@ defaults:
     layout: page
 permalink: pretty
 gems:
-  - jekyll_pages_api
+- jekyll_pages_api

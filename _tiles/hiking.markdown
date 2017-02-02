@@ -9,5 +9,6 @@ config:
   multi_use_path: false
   landline: false
   zoom: 10
+background-image: "/uploads/12867940884_968b832041_z.jpg"
 ---
 

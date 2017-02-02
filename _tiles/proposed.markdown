@@ -6,5 +6,10 @@ config:
   proposed: true
   zoom: 10
   landline: true
+  protected: true
+  shared: true
+  bike_lane: true
+  walk: true
+  multi_use_path: true
 ---
 

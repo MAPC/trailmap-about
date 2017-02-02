@@ -10,6 +10,7 @@ config:
   bike_line: true
   protected: true
   multi_use_path: false
+Body: Test
 ---
 
 Biking trails

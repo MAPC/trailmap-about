@@ -15,7 +15,7 @@
             "title": {{ page.title | jsonify }},
             "url": {{ page.url | jsonify }},
             "body": {{ page.body | jsonify }},
-            "background": {{ page.background | jsonify }},
+            "background-image": {{ page['background-image'] | jsonify }},
             "config": {{ page.config | jsonify }}
           }
           {% unless forloop.last %},{% endunless %}

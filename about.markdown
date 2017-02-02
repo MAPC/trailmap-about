@@ -4,7 +4,11 @@ date: 2017-01-27 22:10:00 Z
 tagline: TRAILMAP IS A GROWING COMPENDIUM OF THE REGION'S WALKING AND BICYCLING FACILITIES.
   TRAILMAP HOPES TO PROVIDE A SINGLE PLACE FOR PLANNING AND EXPLORING THE REGION BY
   FOOT AND ON BICYCLE.
-disclaimer: 
+disclaimer: The data herein is provided for informational purposes only. MAPC makes
+  no warranties, either expressed or implied, and assumes no responsibility for its
+  completeness or accuracy. Users assume all responsibility and risk associated with
+  use of the map and agree to indemnify and hold harmless MAPC with respect to any
+  and all claims and demands that may arise resulting from use of this map.​
 ---
 
 # Who made this map?

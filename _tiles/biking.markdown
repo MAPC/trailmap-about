@@ -13,5 +13,4 @@ config:
 Body: Test
 ---
 
-Biking trails
-
+These are trails suitable for biking

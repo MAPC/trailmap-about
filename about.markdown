@@ -9,6 +9,10 @@ disclaimer: The data herein is provided for informational purposes only. MAPC ma
   completeness or accuracy. Users assume all responsibility and risk associated with
   use of the map and agree to indemnify and hold harmless MAPC with respect to any
   and all claims and demands that may arise resulting from use of this map.​
+email: DLoutzenheiser@mapc.org
+address: |-
+  60 Temple Place
+  Boston, MA 02111
 ---
 
 # Who made this map?

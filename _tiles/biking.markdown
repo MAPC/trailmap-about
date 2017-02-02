@@ -1,6 +1,7 @@
 ---
 title: Biking
 date: 2017-02-02 18:51:00 Z
+description: These are suitable for biking
 background-image: "/uploads/14683645925_ba3b25f874_z.jpg"
 config:
   walk: false
@@ -10,7 +11,5 @@ config:
   bike_line: true
   protected: true
   multi_use_path: false
-Body: Test
 ---
 
-These are trails suitable for biking

@@ -2,11 +2,25 @@
 ---
 
 [
-  {% for post in site.pages %}
+  {% for page in site.pages %}
     {
-      "title": {{ post.title | jsonify }},
-      "url": {{ post.url | jsonify }},
-      "body": {{ post.body | jsonify }}
+      "title": {{ page.title | jsonify }},
+      "url": {{ page.url | jsonify }},
+      "body": {{ page.body | jsonify }},
+      "tagline": {{ page.tagline | jsonify }},
+      "disclaimer": {{ page.disclaimer | jsonify }},
+      "tiles": [
+        {% for page in site.tiles %}
+          {
+            "title": {{ page.title | jsonify }},
+            "url": {{ page.url | jsonify }},
+            "body": {{ page.body | jsonify }},
+            "background": {{ page.background | jsonify }},
+            "config": {{ page.config | jsonify }}
+          }
+          {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ]
     }
     {% unless forloop.last %},{% endunless %}
   {% endfor %}

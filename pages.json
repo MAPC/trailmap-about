@@ -1,0 +1,12 @@
+---
+---
+[
+  {% for post in site.pages %}
+    {
+      "title": {{ post.title | jsonify }},
+      "url": {{ post.url | jsonify }},
+      "body": {{ post.body | jsonify }}
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

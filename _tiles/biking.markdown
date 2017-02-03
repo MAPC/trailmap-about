@@ -1,7 +1,7 @@
 ---
-title: Biking
+title: Cycling
 date: 2017-02-02 18:51:00 Z
-description: These are suitable for biking
+description: Where to find bike lanes and other bicycle facilities
 background-image: "/uploads/14683645925_ba3b25f874_z.jpg"
 config:
   walk: false

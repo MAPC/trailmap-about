@@ -8,7 +8,7 @@ config:
   zoom: 10
   shared: true
   landline: false
-  bike_line: true
+  bike_lane: true
   protected: true
   multi_use_path: false
 ---
